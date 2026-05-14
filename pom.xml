@@ -47,7 +47,7 @@
                             <artifactItems>
                                 <artifactItem>
                                     <groupId>com.heroku</groupId>
-                                    <artifactId>webapp-runner</artifactId>
+                                    <artifactId>webapp-runner-main</artifactId>
                                     <version>10.1.5.0</version>
                                     <destFileName>webapp-runner.jar</destFileName>
                                 </artifactItem>
